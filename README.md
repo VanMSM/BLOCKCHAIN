@@ -47,8 +47,8 @@ Clone to your local repo and open in VS Code
 
 ## How to Use
 
-In the terminal, run the Streamlit application by using "streamlit run pychainapp.py"
-Enter values for the sender, receiver, and amount, and then click the "Add
+In the terminal, navigate to the project folder and run the Streamlit application by using "streamlit run pychainapp.py"
+Enter values for the sender, receiver, and amount, and then click the "Add Block" button.
 Verify the block contents and hashes in the Streamlit drop-down menu.
 
 
