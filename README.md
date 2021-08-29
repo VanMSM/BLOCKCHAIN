@@ -2,17 +2,18 @@
 
 ___
 
-![Unknown](https://user-images.githubusercontent.com/80144026/129490446-1aca9208-eaef-48e9-9fdf-d9780fe8eb83.jpeg)
+![BlockChain_Banner-2](https://user-images.githubusercontent.com/80144026/131240308-6e847480-ce37-43a3-9160-12a21e678f64.jpg)
 
-
-This is a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow users to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+This is a blockchain-based ledger system project, complete with a user-friendly web interface. This ledger should allow users to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 __
 
-## Images
+## Project Images
 
 ###  Pychain Ledger run on Streamlit
 
-<img width="1710" alt="Screen Shot 2021-08-15 at 12 21 25 PM" src="https://user-images.githubusercontent.com/80144026/129490158-ac9458aa-5eb7-4c71-8c44-ccc616603341.png">
+<img width="1256" alt="Screen Shot 2021-08-28 at 10 54 08 PM" src="https://user-images.githubusercontent.com/80144026/131240283-58b0192c-f5ba-4942-87f1-a9e4e8dc38df.png">
+![Unknown-1](https://user-images.githubusercontent.com/80144026/131240286-bf594a3e-812d-4488-8ebc-3b09a1cc2eac.jpeg)
+
 
 ### * After a block is added
 
