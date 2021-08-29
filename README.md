@@ -1,13 +1,28 @@
 # PYCHAIN, A BLOCKCHAIN BASED LEDGER
 
-
+___
 
 ![Unknown](https://user-images.githubusercontent.com/80144026/129490446-1aca9208-eaef-48e9-9fdf-d9780fe8eb83.jpeg)
 
 
 This is a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow users to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+__
+
+## Images
+
+###  Pychain Ledger run on Streamlit
 
 <img width="1710" alt="Screen Shot 2021-08-15 at 12 21 25 PM" src="https://user-images.githubusercontent.com/80144026/129490158-ac9458aa-5eb7-4c71-8c44-ccc616603341.png">
+
+### * After a block is added
+
+<img width="970" alt="Screen Shot 2021-08-28 at 10 19 35 PM" src="https://user-images.githubusercontent.com/80144026/131239794-6c6103ea-2108-45c5-8b38-94780f45afc1.png">
+
+### * Block Contents and Hashes
+
+<img width="845" alt="Screen Shot 2021-08-28 at 10 08 08 PM" src="https://user-images.githubusercontent.com/80144026/131239799-4593ae45-2105-4c29-828d-23fad17627c8.png">
+
+___
 
 
 ## Technologies
